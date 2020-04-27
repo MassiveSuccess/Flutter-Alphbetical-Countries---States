@@ -5,7 +5,7 @@ code by -
 Kamlesh Paikrao
 Web Developer.
 
-![Image description](link-to-image)
+![Image description](preview.png)
 
 ## Getting Started
 
